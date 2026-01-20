@@ -1,11 +1,15 @@
-Tentu, ini adalah file `README.md` yang lengkap dan siap pakai. Anda bisa langsung menyalin isinya.
-
-````markdown
 # Book Management App (Technical Test)
 
 Aplikasi manajemen buku sederhana berbasis **Laravel 12** yang mencakup Backend REST API dan Frontend Single Page Application (SPA) menggunakan **Tailwind CSS** (CDN).
 
 Proyek ini dibuat untuk memenuhi persyaratan _Technical Test_ dengan fitur CRUD (Create, Read, Update, Delete) dan Pencarian.
+
+## 🌐 Live Demo
+
+Anda dapat melihat demo aplikasi yang sudah berjalan di sini:
+👉 **[https://crudbook.1cloud.my.id](https://crudbook.1cloud.my.id)**
+
+---
 
 ## 📋 Persyaratan Sistem
 
@@ -26,8 +30,8 @@ Jika Anda menggunakan git:
 ```bash
 git clone <repository_url>
 cd book-app
+
 ```
-````
 
 ### 2. Instalasi Dependensi
 
@@ -164,7 +168,3 @@ Menghapus buku berdasarkan ID.
 ## ✨ Catatan Tambahan
 
 Frontend dibuat menggunakan HTML5 dan JavaScript murni (Vanilla JS) dengan styling Tailwind CSS via CDN, sehingga tidak memerlukan build step (npm run dev/build) untuk tampilan.
-
-```
-
-```
